@@ -2,9 +2,11 @@
   "name": "creating_api_with_express_and_postgresql",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Tsuyoshi Maeda <oasis5tsuyoshi@gmail.com>",
+  "author": "Yoshitaka Akamatsu <yoshimatsuakatoshi0202@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "sequelize": "^4.42.0"
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.42.0",
+    "sequelize-cli": "^5.4.0"
   }
 }
