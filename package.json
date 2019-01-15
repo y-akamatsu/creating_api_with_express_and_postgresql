@@ -4,5 +4,7 @@
   "main": "index.js",
   "author": "Tsuyoshi Maeda <oasis5tsuyoshi@gmail.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "sequelize": "^4.42.0"
+  }
 }
